@@ -64,7 +64,3 @@ Monte Carlo pi estimation is the simplest example of a family of methods used in
 pip install numpy matplotlib
 ```
 Open `01_pi_estimation.ipynb` and run all cells in order.
-
-## 👤 Author
-
-Ioannis Ntontis | Physicist
