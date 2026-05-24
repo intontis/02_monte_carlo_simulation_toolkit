@@ -67,5 +67,4 @@ Open `01_pi_estimation.ipynb` and run all cells in order.
 
 ## 👤 Author
 
-Ioannis Ntontis | Physics Graduate
-[LinkedIn](your-linkedin-url) | [GitHub](your-github-url)
+Ioannis Ntontis | Physics Graduate | [LinkedIn](https://www.linkedin.com/in/intontis/) | [GitHub](https://github.com/intontis)
