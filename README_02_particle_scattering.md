@@ -71,7 +71,3 @@ foundation behind:
 pip install numpy matplotlib
 ```
 Open `02_particle_scattering.ipynb` and run all cells in order.
-
-## 👤 Author
-
-Ioannis Ntontis | Physicist
