@@ -69,7 +69,3 @@ Where n is the number of steps and 2 accounts for both x and y dimensions.
 pip install numpy matplotlib
 ```
 Open `03_random_walk.ipynb` and run all cells in order.
-
-## 👤 Author
-
-Ioannis Ntontis | Physicist
