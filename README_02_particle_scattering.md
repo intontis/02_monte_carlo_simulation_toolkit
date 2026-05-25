@@ -107,4 +107,8 @@ foundation behind:
 ```bash
 pip install numpy matplotlib
 ```
+<<<<<<< HEAD
 Open `notebooks/02_particle_scattering.ipynb` and run all cells in order.
+=======
+Open `02_particle_scattering.ipynb` and run all cells in order.
+>>>>>>> 50a39fc9f63f25d04ee8de7e95a01d9dfb9225f7

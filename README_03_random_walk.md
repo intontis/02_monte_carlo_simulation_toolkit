@@ -75,4 +75,8 @@ the power of scientific computing over naive iteration.
 ```bash
 pip install numpy matplotlib
 ```
+<<<<<<< HEAD
 Open `notebooks/03_random_walk.ipynb` and run all cells in order.
+=======
+Open `03_random_walk.ipynb` and run all cells in order.
+>>>>>>> 50a39fc9f63f25d04ee8de7e95a01d9dfb9225f7
