@@ -63,8 +63,4 @@ Monte Carlo pi estimation is the simplest example of a family of methods used in
 ```bash
 pip install numpy matplotlib
 ```
-<<<<<<< HEAD
 Open `notebooks/01_pi_estimation.ipynb` and run all cells in order.
-=======
-Open `01_pi_estimation.ipynb` and run all cells in order.
->>>>>>> 50a39fc9f63f25d04ee8de7e95a01d9dfb9225f7
