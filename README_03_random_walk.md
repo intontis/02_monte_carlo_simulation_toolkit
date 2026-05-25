@@ -43,6 +43,13 @@ Where n is the number of steps and 2 accounts for both x and y dimensions.
 - Simulated <r²> closely matches theoretical prediction <r²> = 2n
 - **Einstein's diffusion law verified computationally**
 
+## 🔑 Key Insight
+
+The diffusion law verification uses fully vectorized NumPy operations — 
+generating all 1,000 walker trajectories simultaneously as a 2D array 
+rather than looping. This is orders of magnitude faster and demonstrates 
+the power of scientific computing over naive iteration.
+
 ## 🧠 Physics Concepts Demonstrated
 
 - **Brownian motion** — random thermal motion of particles
@@ -68,9 +75,4 @@ Where n is the number of steps and 2 accounts for both x and y dimensions.
 ```bash
 pip install numpy matplotlib
 ```
-Open `03_random_walk.ipynb` and run all cells in order.
-
-## 👤 Author
-
-Ioannis Ntontis | Physics Graduate
-[LinkedIn](your-linkedin-url) | [GitHub](your-github-url)
+Open `notebooks/03_random_walk.ipynb` and run all cells in order.
