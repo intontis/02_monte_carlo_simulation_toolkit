@@ -12,9 +12,9 @@ back at large angles. This was Rutherford's proof that atoms have a dense
 central nucleus — one of the most important discoveries in physics.
 
 This simulation reproduces that experiment computationally using the 
-Rutherford scattering formula:
+**Rutherford Scattering** formula:
 
-**θ = 2 · arctan(a / b)**
+$\theta = 2 \cdot \arctan\left(\frac{a}{b}\right)$
 
 Where:
 - θ = scattering angle
