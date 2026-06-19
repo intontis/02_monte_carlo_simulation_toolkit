@@ -10,7 +10,7 @@ containing a circle, the ratio of darts landing inside the circle to the
 total number of darts approximates π:
 
 $$
-$\boldsymbol{\pi \approx 4 \cdot \frac{\textbf{points inside circle}}{\textbf{total points}}}$
+\boldsymbol{\pi \approx 4 \cdot \frac{\textbf{points inside circle}}{\textbf{total points}}}
 $$
 
 This works because the area of a unit circle is π, while the area of 
