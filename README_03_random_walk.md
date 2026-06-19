@@ -18,7 +18,8 @@ diffusing particle grows linearly with time:
 
 $$\boldsymbol{\langle r^2 \rangle = 2Dt}$$
 
-In our discrete simulation this becomes: $$\boldsymbol{\langle r^2 \rangle = 2n}$$
+In our discrete simulation this becomes: 
+$$\boldsymbol{\langle r^2 \rangle = 2n}$$
 
 Where n is the number of steps and 2 accounts for both x and y dimensions.
 
