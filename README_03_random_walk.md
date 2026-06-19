@@ -14,13 +14,9 @@ This simple model describes:
 - **Stock prices** — financial market movements
 
 Einstein showed in 1905 that the mean squared displacement of a 
-diffusing particle grows linearly with time:
+diffusing particle grows linearly with time: $\quad \boldsymbol{\langle r^2 \rangle = 2Dt}$
 
-$\boldsymbol{\langle r^2 \rangle = 2Dt}$
-
-In our discrete simulation this becomes: 
-
-$\boldsymbol{\langle r^2 \rangle = 2n}$
+In our discrete simulation this becomes:  $\quad \boldsymbol{\langle r^2 \rangle = 2n}$
 
 Where n is the number of steps and 2 accounts for both x and y dimensions.
 
