@@ -9,7 +9,9 @@ The idea is beautifully simple: if you randomly throw darts at a square
 containing a circle, the ratio of darts landing inside the circle to the 
 total number of darts approximates π:
 
-$**π ≈ 4 · (points inside circle / total points)**$
+$$
+\pi \approx 4 \cdot \frac{\text{points inside circle}}{\text{total points}}
+$$
 
 This works because the area of a unit circle is π, while the area of 
 the surrounding square is 4. The ratio of areas equals the ratio of 
