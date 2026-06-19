@@ -33,7 +33,9 @@ discovered, its atomic number is unknown. By firing particles at it
 and measuring the scattering angles, physicists can recover Z directly 
 from the data using:
 
-**Z_estimated = median(b · tan(θ/2))**
+**Inverse Problem:**
+
+$Z_{\text{estimated}} = \text{median}\left(b \cdot \tan\left(\frac{\theta}{2}\right)\right)$
 
 This is the same mathematical principle behind CT scanning, X-ray 
 crystallography and nuclear material identification.
