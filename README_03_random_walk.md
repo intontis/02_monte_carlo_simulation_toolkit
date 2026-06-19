@@ -16,11 +16,11 @@ This simple model describes:
 Einstein showed in 1905 that the mean squared displacement of a 
 diffusing particle grows linearly with time:
 
-$\langle r^2 \rangle = 2Dt$
+$$\boldsymbol{\langle r^2 \rangle = 2Dt}$$
 
 In our discrete simulation this becomes:
 
-$\langle r^2 \rangle = 2n$
+$$\boldsymbol{\langle r^2 \rangle = 2n}$$
 
 Where n is the number of steps and 2 accounts for both x and y dimensions.
 
