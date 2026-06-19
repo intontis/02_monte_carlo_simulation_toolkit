@@ -40,7 +40,7 @@ Where n is the number of steps and 2 accounts for both x and y dimensions.
 ![Diffusion Law](results/03_diffusion_law.png)
 
 - 1,000 independent walkers simulated
-- Simulated <r²> closely matches theoretical prediction <r²> = 2n
+- Simulated $\langle r^2$ closely matches theoretical prediction $\langle r^2 \rangle = 2n$
 - **Einstein's diffusion law verified computationally**
 
 ## 🔑 Key Insight
@@ -54,7 +54,7 @@ the power of scientific computing over naive iteration.
 
 - **Brownian motion** — random thermal motion of particles
 - **Mean squared displacement** — statistical measure of diffusion
-- **Einstein diffusion law** — <r²> = 2Dt in 2D
+- **Einstein diffusion law** — $\langle r^2 \rangle = 2Dt$ in 2D
 - **Statistical averaging** — more walkers = smoother, more accurate result
 
 ## 🌍 Real World Applications
