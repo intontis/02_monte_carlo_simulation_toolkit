@@ -14,7 +14,7 @@ central nucleus — one of the most important discoveries in physics.
 This simulation reproduces that experiment computationally using the 
 **Rutherford Scattering** formula:
 
-$\boldsymbol{\theta = 2 \cdot \arctan\left(\frac{a}{b}\right)}$
+$$\boldsymbol{\theta = 2 \cdot \arctan\left(\frac{a}{b}\right)}$$
 
 Where:
 - θ = scattering angle
@@ -35,7 +35,7 @@ from the data using:
 
 **Inverse Problem:**
 
-$Z_{\text{estimated}} = \text{median}\left(b \cdot \tan\left(\frac{\theta}{2}\right)\right)$
+$\boldsymbol{Z_{\text{estimated}} = \text{median}\left(b \cdot \tan\left(\frac{\theta}{2}\right)\right)}$
 
 This is the same mathematical principle behind CT scanning, X-ray 
 crystallography and nuclear material identification.
