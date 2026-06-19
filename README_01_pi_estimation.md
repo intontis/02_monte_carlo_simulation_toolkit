@@ -41,7 +41,7 @@ random points landing in each region.
 ## 🧠 Physics Concepts Demonstrated
 
 - **Monte Carlo sampling** — using random numbers to solve deterministic problems
-- **Statistical convergence** — error decreases as 1/√n (same as measurement uncertainty in experiments)
+- **Statistical convergence** — error decreases as $\frac{1}{\sqrt{n}}$ (same as measurement uncertainty in experiments)
 - **Law of large numbers** — more samples = more accurate result
 
 ## 🌍 Real World Applications
