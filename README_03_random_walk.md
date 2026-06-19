@@ -54,7 +54,7 @@ the power of scientific computing over naive iteration.
 
 - **Brownian motion** — random thermal motion of particles
 - **Mean squared displacement** — statistical measure of diffusion
-- **Einstein diffusion law** — $\langle r^2 \rangle = 2Dt$  in 2D
+- **Einstein diffusion law** — $\langle r^2 \rangle = 2Dt$ in 2D
 - **Statistical averaging** — more walkers = smoother, more accurate result
 
 ## 🌍 Real World Applications
