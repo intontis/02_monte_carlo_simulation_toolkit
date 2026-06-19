@@ -14,7 +14,7 @@ central nucleus — one of the most important discoveries in physics.
 This simulation reproduces that experiment computationally using the 
 **Rutherford Scattering** formula:
 
-$\theta = 2 \cdot \arctan\left(\frac{a}{b}\right)$
+$\boldsymbol{\theta = 2 \cdot \arctan\left(\frac{a}{b}\right)}$
 
 Where:
 - θ = scattering angle
